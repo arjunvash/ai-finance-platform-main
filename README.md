@@ -50,22 +50,6 @@ The **Finance Management System** is a modern web application designed to simpli
 
 ---
 
-## 📂 Project Structure
-
-```
-finance-management-system/
-│── client/              # Frontend (React / Next.js)
-│── server/              # Backend (Node.js / API routes)
-│── models/              # Database schemas
-│── routes/              # API routes
-│── controllers/         # Business logic
-│── public/              # Static assets
-│── utils/               # Helper functions
-│── .env                 # Environment variables
-│── package.json
-```
-
-
 ## 📊 Core Modules
 
 ### 🔹 Authentication
